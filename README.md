@@ -33,12 +33,6 @@ The dataset was cleaned, transformed, and visualized to uncover key insights abo
 - **Certification Impact**: Explored how certifications (like PG, R, etc.) influence content ratings.  
 - **Audience Preferences**: Highlighted runtime changes and content categories popular among users.  
 
----
-
-## 🖼️ Dashboard Preview
-*(Add screenshots of your Power BI dashboards here)*  
-
----
 
 ## 🚀 How to Use
 1. Clone this repository:
